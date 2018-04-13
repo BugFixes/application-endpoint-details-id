@@ -1,6 +1,6 @@
 {
   "name": "bugfixes-endpoint-application-details-id",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "BugFixes Application Details by Id Endpoint",
   "main": "index.js",
   "author": "keloran <keloran@bugfix.es>",
